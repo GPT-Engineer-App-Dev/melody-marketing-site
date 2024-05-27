@@ -15,6 +15,9 @@ const Index = () => {
         <Button colorScheme="gray" size="lg">
           Get Tickets
         </Button>
+        <Button colorScheme="blue" size="lg">
+          Learn More
+        </Button>
         <HStack spacing={4}>
           <IconButton aria-label="Facebook" icon={<FaFacebook />} size="lg" color="gray.700" />
           <IconButton aria-label="Twitter" icon={<FaTwitter />} size="lg" color="gray.600" />
